@@ -2,4 +2,6 @@
 My first helloWorld repository
 
 
-my comment to the first branch
+removed comment in first branch
+
+add comment for second branch
